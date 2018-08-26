@@ -33,7 +33,7 @@ and not the tooling.
 
 Furthermore, Terraform is an open source tool. In addition to
 HashiCorp, the community around Terraform helps to extend its features,
-fix bugs and document new use cases. Terraform helps solve a problem
+fix bugs and document new use cases. Terraform helps to solve a problem
 that exists in every organization and provides a standard that can
 be adopted to avoid reinventing the wheel between and within organizations.
 Its open source nature ensures it will be around in the long term.
