@@ -28,4 +28,4 @@ process.
 
 Options:
 
-*  `-force` -  Don't ask for input for unlock confirmation.
+*  `-force ` -  Don't ask for input for unlock confirmation.
